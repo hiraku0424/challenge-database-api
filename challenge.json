@@ -1,7 +1,11 @@
-﻿{
+{
+    "editable": [
+        "Answer.md"
+    ]
     "excludes": [ 
         ".gitignore",
         "challenge.json"
     ],
-    "test": "mocha spec"
+    "test": "mocha spec",
+    "allowNewFile": true
 }
