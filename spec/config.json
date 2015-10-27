@@ -1,0 +1,13 @@
+﻿{
+    "database": {
+        "client": "sqlite3",
+        "connection": {
+            "filename": "./sql/database.db"
+        }
+    },
+    "host": "localhost:9000",
+    "endpoints": {
+        "challenge": "/api/challenge/"
+    },
+    "secret":  "challenge-database-api"
+}

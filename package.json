@@ -1,0 +1,13 @@
+{
+    "name": "challenge-database-api",
+    "version": "0.0.0",
+    "description": "challenge-database-api",
+    "author": "Givery Inc.",
+    "dependencies": {
+        "api-first-spec": "^0.2.9",
+        "chai": "^3.4.0",
+        "moment": "^2.10.6",
+        "sql-fixtures": "^0.11.0",
+        "sqlite3": "^3.1.0"
+    }
+}

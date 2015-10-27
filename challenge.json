@@ -1,0 +1,7 @@
+﻿{
+    "excludes": [ 
+        ".gitignore",
+        "challenge.json"
+    ],
+    "test": "mocha spec"
+}
